@@ -9,3 +9,7 @@ Existing kNN method is used to find missing data and it follows Minkowski distan
 
 The algorithm and logic behind Gray kNN can be found in the research paper by <b>Shichao Zhang</b> linked below: <br/>
 [https://www.sciencedirect.com/science/article/abs/pii/S0164121212001586]
+
+## Implementation 
+
+Above iPython Notebooks consist the practical execution of Gray kNN Imputation using Python 3.8
