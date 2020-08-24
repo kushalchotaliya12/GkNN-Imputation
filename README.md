@@ -7,5 +7,5 @@ Existing kNN method is used to find missing data and it follows Minkowski distan
 
 ## Algorithm
 
-The login behind Gray kNN can be found in the research paper by <b>Shichao Zhang</b> linked below: <br/>
+The algorithm and logic behind Gray kNN can be found in the research paper by <b>Shichao Zhang</b> linked below: <br/>
 [https://www.sciencedirect.com/science/article/abs/pii/S0164121212001586]
